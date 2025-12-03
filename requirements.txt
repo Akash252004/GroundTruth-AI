@@ -1,0 +1,20 @@
+# AI Creative Studio - Requirements (100% FREE Tools)
+
+# Core dependencies
+streamlit==1.29.0
+Pillow==10.1.0
+colorthief==0.2.1
+python-dotenv==1.0.0
+
+# AI & ML (Free APIs)
+# AI & ML (Free APIs)
+google-generativeai==0.7.0
+huggingface_hub==0.23.0
+requests==2.31.0
+
+# Image processing
+numpy==1.24.3
+opencv-python==4.8.1.78
+
+# Utilities
+python-dateutil==2.8.2
